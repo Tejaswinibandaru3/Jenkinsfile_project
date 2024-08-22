@@ -4,7 +4,7 @@ agent any
 tools{
 // here mymaven is tool configured under global tool configuration
 // new tools added
-maven 'mymaven'
+maven 'maven'
 }
 stages{
 stage('Clone repo')
